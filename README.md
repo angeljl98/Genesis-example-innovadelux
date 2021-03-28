@@ -1,4 +1,4 @@
-# WordPress
+# WordPress con Genesis
 
 Hola, este es un repositorio de ejemplo usando Laragon y WordPress. Esto usa un ambiente de desarrollo local, Laragon. para más información visitar la página correspondiente, [chequea la documentación](https://laragon.org/).
 
