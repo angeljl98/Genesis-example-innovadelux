@@ -6,7 +6,7 @@ Hola, este es un repositorio de ejemplo usando Laragon y WordPress. Esto usa un 
 
 1. Abre la línea de comandos.
 2. Clona el repo.
-3. Debería estar full funcional en el sitio local en (https://github.com/angeljl98/Genesis-example-innovadelux)!
+3. Debería estar full funcional en el sitio local en GitHub\Genesis-example-innovadelux)
 
 ## WordPress y Composer
 
