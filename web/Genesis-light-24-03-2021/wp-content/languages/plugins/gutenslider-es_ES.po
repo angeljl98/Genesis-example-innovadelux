@@ -1,0 +1,132 @@
+# Translation of Plugins - WordPress Slider Block Gutenslider - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress Slider Block Gutenslider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-23 13:27:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress Slider Block Gutenslider - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "WordPress slider plugin for Gutenberg. Create an image slider, video slider, fullscreen slider with this powerful slider block and add any block on top. Slide anything!"
+msgstr "Plugin de carrusel de WordPress para Gutenberg. Crea un carrusel de imágenes, un carrusel de vídeo o un carrusel a pantalla completa con este potente bloque de carrusel y añade cualquier bloque en la parte superior. ¡Carrusel para cualquier cosa!"
+
+#: includes/admin/class-gutenslider-admin-start-page.php:55
+#: includes/admin/class-gutenslider-admin-start-page.php:56
+#: src/blocks/blocks_pro.js:41 src/blocks/blocks_free.js:62
+msgid "Gutenslider"
+msgstr "Gutenslider"
+
+#: includes/admin/class-coblocks-feedback.php:311
+msgid "CoBlocks"
+msgstr "CoBlocks"
+
+#: includes/admin/class-coblocks-feedback.php:283
+msgid "No thanks / I already have"
+msgstr "No, gracias / Ya lo he hecho"
+
+#. translators: 1. Name, 2. Time
+#: includes/admin/class-coblocks-feedback.php:278
+msgid "You have been using %1$s for %2$s now. Mind leaving a review to let us know know what you think? We'd really appreciate it!"
+msgstr "Has estado usando %1$s desde hace %2$s. ¿Te importa dejar un comentario para hacernos saber lo que piensas? ¡Realmente lo agradeceríamos!"
+
+#. translators: 1. Name
+#: includes/admin/class-coblocks-feedback.php:275
+msgid "Are you enjoying %s?"
+msgstr "¿Estás disfrutando %s?"
+
+#. translators: 1. Name
+#: includes/admin/class-coblocks-feedback.php:271
+msgid "%s WordPress Plugin"
+msgstr "Plugin %s para WordPress"
+
+#: includes/admin/class-coblocks-feedback.php:139
+msgid "a second"
+msgstr "un segundo"
+
+#. translators: Number of seconds
+#: includes/admin/class-coblocks-feedback.php:137
+msgid "%s seconds"
+msgstr "%s segundos"
+
+#: includes/admin/class-coblocks-feedback.php:130
+msgid "a minute"
+msgstr "un minuto"
+
+#. translators: Number of minutes
+#: includes/admin/class-coblocks-feedback.php:128
+msgid "%s minutes"
+msgstr "%s minutos"
+
+#: includes/admin/class-coblocks-feedback.php:121
+msgid "an hour"
+msgstr "una hora"
+
+#. translators: Number of hours
+#: includes/admin/class-coblocks-feedback.php:119
+msgid "%s hours"
+msgstr "%s horas"
+
+#: includes/admin/class-coblocks-feedback.php:112
+msgid "a day"
+msgstr "un día"
+
+#. translators: Number of days
+#: includes/admin/class-coblocks-feedback.php:110
+msgid "%s days"
+msgstr "%s días"
+
+#: includes/admin/class-coblocks-feedback.php:103
+msgid "a week"
+msgstr "una semana"
+
+#. translators: Number of weeks
+#: includes/admin/class-coblocks-feedback.php:101
+msgid "%s weeks"
+msgstr "%s semanas"
+
+#: includes/admin/class-coblocks-feedback.php:94
+msgid "a year"
+msgstr "un año"
+
+#. translators: Number of years
+#: includes/admin/class-coblocks-feedback.php:92
+msgid "%s years"
+msgstr "%s años"
+
+#: includes/admin/class-gutenslider-admin-start-page.php:138
+msgid "Get started with Gutenslider here:"
+msgstr "Comienza con Gutenslider aquí:"
+
+#: includes/admin/class-coblocks-feedback.php:282
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Deja una valoración"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Valora a CoBlocks en WordPress.org"
+
+#: eedee-gutenslider.php:129 eedee-gutenslider.php:142
+msgid "Cheating huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#. Plugin Name of the plugin
+msgid "Gutenslider — The last WordPress slider you will ever need."
+msgstr "Gutenslider — The last WordPress slider you will ever need."
+
+#. Author URI of the plugin
+msgid "https://eedee.net"
+msgstr "https://eedee.net"
+
+#. Author of the plugin
+msgid "eedee"
+msgstr "eedee"
+
+#. Plugin URI of the plugin
+msgid "https://gutenslider.org"
+msgstr "https://gutenslider.org"

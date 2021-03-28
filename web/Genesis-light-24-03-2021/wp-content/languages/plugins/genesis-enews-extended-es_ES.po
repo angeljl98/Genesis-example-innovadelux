@@ -1,0 +1,156 @@
+# Translation of Plugins - Genesis eNews Extended - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Genesis eNews Extended - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-26 09:34:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Genesis eNews Extended - Stable (latest release)\n"
+
+#: class-bjgk-genesis-enews-extended.php:131
+msgid "enews-%s-field"
+msgid_plural "enews-%s-fields"
+msgstr[0] "enews-%s-campo"
+msgstr[1] "enews-%s-campos"
+
+#. Author URI of the plugin
+msgid "https://kraft.blog/"
+msgstr "https://kraft.blog/"
+
+#: class-bjgk-genesis-enews-extended.php:469
+msgid "Display link to privacy policy?"
+msgstr "¿Mostrar enlace a la política de privacidad?"
+
+#. Author of the plugin
+msgid "Brandon Kraft"
+msgstr "Brandon Kraft"
+
+#. Description of the plugin
+msgid "Replaces the Genesis eNews Widget to allow easier use of additional mailing services."
+msgstr "Sustituye el Widget Genesis eNews para permitir un uso más fácil de los servicios de mailing adicionales."
+
+#. Plugin URI of the plugin
+msgid "https://kraft.blog/genesis-enews-extended/"
+msgstr "https://kraft.im/genesis-enews-extended/"
+
+#. Plugin Name of the plugin
+msgid "Genesis eNews Extended"
+msgstr "Genesis eNews Extended"
+
+#: class-bjgk-genesis-enews-extended.php:462
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: class-bjgk-genesis-enews-extended.php:461
+msgid "Go"
+msgstr "Ir"
+
+#: class-bjgk-genesis-enews-extended.php:455
+msgid "E-Mail Input Text"
+msgstr "Email de entrada su texto"
+
+#: class-bjgk-genesis-enews-extended.php:454
+msgid "E-Mail Address"
+msgstr "Dirección de correo electrónico"
+
+#: class-bjgk-genesis-enews-extended.php:449
+msgid "Last Name Input Text"
+msgstr "Apellido de entrada de texto"
+
+#: class-bjgk-genesis-enews-extended.php:443
+msgid "First Name Input Text"
+msgstr "Nombre de entrada de texto"
+
+#: class-bjgk-genesis-enews-extended.php:437
+msgid "Open confirmation page in same window?"
+msgstr "¿Abrir la página de confirmación en la misma ventana?"
+
+#: class-bjgk-genesis-enews-extended.php:432
+msgid "Not all services use hidden fields."
+msgstr "Todos los servicios no usan campos escondidos."
+
+#: class-bjgk-genesis-enews-extended.php:429
+msgid "Hidden Fields"
+msgstr "Campos escondidos"
+
+#: class-bjgk-genesis-enews-extended.php:423
+msgid "Last Name Field"
+msgstr "Campo de Apellido"
+
+#: class-bjgk-genesis-enews-extended.php:417
+msgid "First Name Field"
+msgstr "Campo de Nombre"
+
+#: class-bjgk-genesis-enews-extended.php:411
+msgid "E-Mail Field"
+msgstr "Campo de Email"
+
+#: class-bjgk-genesis-enews-extended.php:405
+msgid "Form Action"
+msgstr "Acci&#243;n de formulario (Form Action)"
+
+#: class-bjgk-genesis-enews-extended.php:401
+msgid "Entering your Feedburner ID here will deactivate the custom options below."
+msgstr "Añadir aquí tu ID de Feedburner desactivará las opciones personalizadas de abajo."
+
+#: class-bjgk-genesis-enews-extended.php:398
+msgid "Google/Feedburner ID"
+msgstr "Google/Feedburner ID"
+
+#: class-bjgk-genesis-enews-extended.php:389
+msgid "Text Displayed If Subscribed"
+msgstr "Texto mostrado si está suscrito"
+
+#: class-bjgk-genesis-enews-extended.php:384
+msgid "Text Displayed If Confirmation Needed"
+msgstr "Texto mostrado si se necesita confirmación"
+
+#: class-bjgk-genesis-enews-extended.php:378
+#: class-bjgk-genesis-enews-extended.php:448
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: class-bjgk-genesis-enews-extended.php:374
+#: class-bjgk-genesis-enews-extended.php:442
+msgid "First Name"
+msgstr "Nombre"
+
+#: class-bjgk-genesis-enews-extended.php:371
+msgid "Show Fields:"
+msgstr "Mostrar campos:"
+
+#: class-bjgk-genesis-enews-extended.php:352
+msgid "MailPoet List"
+msgstr "Lista de MailPoet"
+
+#: class-bjgk-genesis-enews-extended.php:335
+msgid "Text To Show After Form"
+msgstr "Texto para mostrar después del formulario"
+
+#: class-bjgk-genesis-enews-extended.php:330
+msgid "Text To Show Before Form"
+msgstr "Texto para mostrar antes del formulario"
+
+#: class-bjgk-genesis-enews-extended.php:324
+msgid "Title"
+msgstr "Título"
+
+#: class-bjgk-genesis-enews-extended.php:59
+msgid "Genesis - eNews Extended"
+msgstr "Genesis - eNews Extended"
+
+#: class-bjgk-genesis-enews-extended.php:56
+msgid "Displays subscribe form"
+msgstr "Muestra formulario de suscripci&#243;n"
+
+#: class-bjgk-genesis-enews-extended.php:51
+msgid "You've successfully subscribed."
+msgstr "Te has suscrito correctamente."
+
+#: class-bjgk-genesis-enews-extended.php:50
+msgid "Check your inbox or spam folder now to confirm your subscription."
+msgstr "Revisa ahora tu buzón de entrada o tu carpeta de spam para confirmar tu suscripción."
